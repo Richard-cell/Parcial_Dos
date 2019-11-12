@@ -1,0 +1,16 @@
+C:\Users\Richard\source\repos\ParcialNumeroDos\Domain\bin\Debug\netcoreapp3.0\Domain.deps.json
+C:\Users\Richard\source\repos\ParcialNumeroDos\Domain\bin\Debug\netcoreapp3.0\Domain.dll
+C:\Users\Richard\source\repos\ParcialNumeroDos\Domain\bin\Debug\netcoreapp3.0\Domain.pdb
+C:\Users\Richard\source\repos\ParcialNumeroDos\Domain\obj\Debug\netcoreapp3.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Richard\source\repos\ParcialNumeroDos\Domain\obj\Debug\netcoreapp3.0\Domain.AssemblyInfo.cs
+C:\Users\Richard\source\repos\ParcialNumeroDos\Domain\obj\Debug\netcoreapp3.0\Domain.dll
+C:\Users\Richard\source\repos\ParcialNumeroDos\Domain\obj\Debug\netcoreapp3.0\Domain.pdb
+C:\Users\Richard\source\repos\ParcialNumeroDos\Domain\obj\Debug\netcoreapp3.0\Domain.csprojAssemblyReference.cache
+C:\Users\Richard\source\repos\Richard-cell\Parcial_Dos\Domain\bin\Debug\netcoreapp3.0\Domain.deps.json
+C:\Users\Richard\source\repos\Richard-cell\Parcial_Dos\Domain\bin\Debug\netcoreapp3.0\Domain.dll
+C:\Users\Richard\source\repos\Richard-cell\Parcial_Dos\Domain\bin\Debug\netcoreapp3.0\Domain.pdb
+C:\Users\Richard\source\repos\Richard-cell\Parcial_Dos\Domain\obj\Debug\netcoreapp3.0\Domain.csprojAssemblyReference.cache
+C:\Users\Richard\source\repos\Richard-cell\Parcial_Dos\Domain\obj\Debug\netcoreapp3.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Richard\source\repos\Richard-cell\Parcial_Dos\Domain\obj\Debug\netcoreapp3.0\Domain.AssemblyInfo.cs
+C:\Users\Richard\source\repos\Richard-cell\Parcial_Dos\Domain\obj\Debug\netcoreapp3.0\Domain.dll
+C:\Users\Richard\source\repos\Richard-cell\Parcial_Dos\Domain\obj\Debug\netcoreapp3.0\Domain.pdb
