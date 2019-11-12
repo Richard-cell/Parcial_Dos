@@ -6835,11 +6835,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Richard\\source\\repos\\Richard-cell\\Parcial_Dos\\ApplicationTest\\ApplicationTest.csproj",
+      "projectUniqueName": "C:\\Users\\Richard\\Source\\Repos\\Richard-cell\\Parcial_Dos\\ApplicationTest\\ApplicationTest.csproj",
       "projectName": "ApplicationTest",
-      "projectPath": "C:\\Users\\Richard\\source\\repos\\Richard-cell\\Parcial_Dos\\ApplicationTest\\ApplicationTest.csproj",
+      "projectPath": "C:\\Users\\Richard\\Source\\Repos\\Richard-cell\\Parcial_Dos\\ApplicationTest\\ApplicationTest.csproj",
       "packagesPath": "C:\\Users\\Richard\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Richard\\source\\repos\\Richard-cell\\Parcial_Dos\\ApplicationTest\\obj\\",
+      "outputPath": "C:\\Users\\Richard\\Source\\Repos\\Richard-cell\\Parcial_Dos\\ApplicationTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6858,11 +6858,11 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\Richard\\source\\repos\\Richard-cell\\Parcial_Dos\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\Richard\\source\\repos\\Richard-cell\\Parcial_Dos\\Application\\Application.csproj"
+            "C:\\Users\\Richard\\Source\\Repos\\Richard-cell\\Parcial_Dos\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\Richard\\Source\\Repos\\Richard-cell\\Parcial_Dos\\Application\\Application.csproj"
             },
-            "C:\\Users\\Richard\\source\\repos\\Richard-cell\\Parcial_Dos\\Infraestructure\\Infraestructure.csproj": {
-              "projectPath": "C:\\Users\\Richard\\source\\repos\\Richard-cell\\Parcial_Dos\\Infraestructure\\Infraestructure.csproj"
+            "C:\\Users\\Richard\\Source\\Repos\\Richard-cell\\Parcial_Dos\\Infraestructure\\Infraestructure.csproj": {
+              "projectPath": "C:\\Users\\Richard\\Source\\Repos\\Richard-cell\\Parcial_Dos\\Infraestructure\\Infraestructure.csproj"
             }
           }
         }

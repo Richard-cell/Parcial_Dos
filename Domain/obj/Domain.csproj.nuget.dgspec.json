@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Richard\\source\\repos\\Richard-cell\\Parcial_Dos\\Domain\\Domain.csproj": {}
+    "C:\\Users\\Richard\\Source\\Repos\\Richard-cell\\Parcial_Dos\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Richard\\source\\repos\\Richard-cell\\Parcial_Dos\\Domain\\Domain.csproj": {
+    "C:\\Users\\Richard\\Source\\Repos\\Richard-cell\\Parcial_Dos\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Richard\\source\\repos\\Richard-cell\\Parcial_Dos\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Richard\\Source\\Repos\\Richard-cell\\Parcial_Dos\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Richard\\source\\repos\\Richard-cell\\Parcial_Dos\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Richard\\Source\\Repos\\Richard-cell\\Parcial_Dos\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Richard\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Richard\\source\\repos\\Richard-cell\\Parcial_Dos\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Richard\\Source\\Repos\\Richard-cell\\Parcial_Dos\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
